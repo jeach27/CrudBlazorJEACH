@@ -1,0 +1,43 @@
+﻿@page "/empleados"
+
+@using BlazorCrudJEACH.Shared;
+@using CurrieTechnologies.Razor.SweetAlert2;
+@using BlazorCrudJEACH.Client.Services;
+
+
+@inject SweetAlertService JEACH;
+@inject IEmpleadoService empleadoService;
+
+<h3>Empleados</h3>
+
+@code {
+    List<EmpleadoDTO>? listaEmpleado = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        listaEmpleado = await empleadoService.Lista();
+    }
+
+    private async Task Eliminar(int id)
+    {
+        var result = await JEACH.FireAsync(new SweetAlertOptions
+        {
+                Title = "Eliminar Empleado",
+                Text = "Quieres eliminar el empleado?",
+                Icon = SweetAlertIcon.Question,
+                ShowCancelButton = true
+        });
+
+        if (result.IsConfirmed)
+        {
+            var eliminado = await empleadoService.Eliminar(id);
+            if (eliminado)
+            {
+                listaEmpleado = listaEmpleado!.FindAll(e => e.IdEmpleado!=id);
+            }
+        }
+        
+
+    }
+
+}

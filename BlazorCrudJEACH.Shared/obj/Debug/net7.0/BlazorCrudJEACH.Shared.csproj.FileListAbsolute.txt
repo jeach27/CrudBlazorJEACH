@@ -1,0 +1,11 @@
+D:\JEACH\projects\CrudBlazorJEACH\BlazorCrudJEACH.Shared\bin\Debug\net7.0\BlazorCrudJEACH.Shared.deps.json
+D:\JEACH\projects\CrudBlazorJEACH\BlazorCrudJEACH.Shared\bin\Debug\net7.0\BlazorCrudJEACH.Shared.dll
+D:\JEACH\projects\CrudBlazorJEACH\BlazorCrudJEACH.Shared\bin\Debug\net7.0\BlazorCrudJEACH.Shared.pdb
+D:\JEACH\projects\CrudBlazorJEACH\BlazorCrudJEACH.Shared\obj\Debug\net7.0\BlazorCrudJEACH.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\JEACH\projects\CrudBlazorJEACH\BlazorCrudJEACH.Shared\obj\Debug\net7.0\BlazorCrudJEACH.Shared.AssemblyInfoInputs.cache
+D:\JEACH\projects\CrudBlazorJEACH\BlazorCrudJEACH.Shared\obj\Debug\net7.0\BlazorCrudJEACH.Shared.AssemblyInfo.cs
+D:\JEACH\projects\CrudBlazorJEACH\BlazorCrudJEACH.Shared\obj\Debug\net7.0\BlazorCrudJEACH.Shared.csproj.CoreCompileInputs.cache
+D:\JEACH\projects\CrudBlazorJEACH\BlazorCrudJEACH.Shared\obj\Debug\net7.0\BlazorCrudJEACH.Shared.dll
+D:\JEACH\projects\CrudBlazorJEACH\BlazorCrudJEACH.Shared\obj\Debug\net7.0\refint\BlazorCrudJEACH.Shared.dll
+D:\JEACH\projects\CrudBlazorJEACH\BlazorCrudJEACH.Shared\obj\Debug\net7.0\BlazorCrudJEACH.Shared.pdb
+D:\JEACH\projects\CrudBlazorJEACH\BlazorCrudJEACH.Shared\obj\Debug\net7.0\ref\BlazorCrudJEACH.Shared.dll
