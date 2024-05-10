@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\JEACH\\projects\\CrudBlazorJEACH\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0FB815F0-578C-452F-B224-38A62C5295F2}|BlazorCrudJEACH.Client\\BlazorCrudJEACH.Client.csproj|d:\\jeach\\projects\\crudblazorjeach\\blazorcrudjeach.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FB815F0-578C-452F-B224-38A62C5295F2}|BlazorCrudJEACH.Client\\BlazorCrudJEACH.Client.csproj|solutionrelative:blazorcrudjeach.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB815F0-578C-452F-B224-38A62C5295F2}|BlazorCrudJEACH.Client\\BlazorCrudJEACH.Client.csproj|d:\\jeach\\projects\\crudblazorjeach\\blazorcrudjeach.client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FB815F0-578C-452F-B224-38A62C5295F2}|BlazorCrudJEACH.Client\\BlazorCrudJEACH.Client.csproj|solutionrelative:blazorcrudjeach.client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0FB815F0-578C-452F-B224-38A62C5295F2}|BlazorCrudJEACH.Client\\BlazorCrudJEACH.Client.csproj|d:\\jeach\\projects\\crudblazorjeach\\blazorcrudjeach.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0FB815F0-578C-452F-B224-38A62C5295F2}|BlazorCrudJEACH.Client\\BlazorCrudJEACH.Client.csproj|solutionrelative:blazorcrudjeach.client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FB815F0-578C-452F-B224-38A62C5295F2}|BlazorCrudJEACH.Client\\BlazorCrudJEACH.Client.csproj|d:\\jeach\\projects\\crudblazorjeach\\blazorcrudjeach.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FB815F0-578C-452F-B224-38A62C5295F2}|BlazorCrudJEACH.Client\\BlazorCrudJEACH.Client.csproj|solutionrelative:blazorcrudjeach.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0FB815F0-578C-452F-B224-38A62C5295F2}|BlazorCrudJEACH.Client\\BlazorCrudJEACH.Client.csproj|d:\\jeach\\projects\\crudblazorjeach\\blazorcrudjeach.client\\pages\\empleados.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0FB815F0-578C-452F-B224-38A62C5295F2}|BlazorCrudJEACH.Client\\BlazorCrudJEACH.Client.csproj|solutionrelative:blazorcrudjeach.client\\pages\\empleados.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB815F0-578C-452F-B224-38A62C5295F2}|BlazorCrudJEACH.Client\\BlazorCrudJEACH.Client.csproj|d:\\jeach\\projects\\crudblazorjeach\\blazorcrudjeach.client\\pages\\empleado.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0FB815F0-578C-452F-B224-38A62C5295F2}|BlazorCrudJEACH.Client\\BlazorCrudJEACH.Client.csproj|solutionrelative:blazorcrudjeach.client\\pages\\empleado.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\JEACH\\projects\\CrudBlazorJEACH\\BlazorCrudJEACH.Client\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "BlazorCrudJEACH.Client\\wwwroot\\index.html",
-              "ToolTip": "D:\\JEACH\\projects\\CrudBlazorJEACH\\BlazorCrudJEACH.Client\\wwwroot\\index.html",
-              "RelativeToolTip": "BlazorCrudJEACH.Client\\wwwroot\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-09T08:01:35.584Z",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\JEACH\\projects\\CrudBlazorJEACH\\BlazorCrudJEACH.Client\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorCrudJEACH.Client\\Shared\\NavMenu.razor",
+              "ToolTip": "D:\\JEACH\\projects\\CrudBlazorJEACH\\BlazorCrudJEACH.Client\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "BlazorCrudJEACH.Client\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T05:07:28.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\JEACH\\projects\\CrudBlazorJEACH\\BlazorCrudJEACH.Client\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorCrudJEACH.Client\\Program.cs",
-              "ToolTip": "D:\\JEACH\\projects\\CrudBlazorJEACH\\BlazorCrudJEACH.Client\\Program.cs",
-              "RelativeToolTip": "BlazorCrudJEACH.Client\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T07:58:20.849Z",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\JEACH\\projects\\CrudBlazorJEACH\\BlazorCrudJEACH.Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorCrudJEACH.Client\\Pages\\Index.razor",
+              "ToolTip": "D:\\JEACH\\projects\\CrudBlazorJEACH\\BlazorCrudJEACH.Client\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorCrudJEACH.Client\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T05:07:19.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\JEACH\\projects\\CrudBlazorJEACH\\BlazorCrudJEACH.Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorCrudJEACH.Client\\wwwroot\\index.html",
+              "ToolTip": "D:\\JEACH\\projects\\CrudBlazorJEACH\\BlazorCrudJEACH.Client\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorCrudJEACH.Client\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-10T05:07:08.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Empleados.razor",
               "DocumentMoniker": "D:\\JEACH\\projects\\CrudBlazorJEACH\\BlazorCrudJEACH.Client\\Pages\\Empleados.razor",
               "RelativeDocumentMoniker": "BlazorCrudJEACH.Client\\Pages\\Empleados.razor",
               "ToolTip": "D:\\JEACH\\projects\\CrudBlazorJEACH\\BlazorCrudJEACH.Client\\Pages\\Empleados.razor",
               "RelativeToolTip": "BlazorCrudJEACH.Client\\Pages\\Empleados.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-09T07:54:45.405Z",
+              "WhenOpened": "2024-05-10T02:43:08.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.razor",
+              "DocumentMoniker": "D:\\JEACH\\projects\\CrudBlazorJEACH\\BlazorCrudJEACH.Client\\Pages\\Empleado.razor",
+              "RelativeDocumentMoniker": "BlazorCrudJEACH.Client\\Pages\\Empleado.razor",
+              "ToolTip": "D:\\JEACH\\projects\\CrudBlazorJEACH\\BlazorCrudJEACH.Client\\Pages\\Empleado.razor",
+              "RelativeToolTip": "BlazorCrudJEACH.Client\\Pages\\Empleado.razor",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T02:43:07.47Z",
               "EditorCaption": ""
             }
           ]

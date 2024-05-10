@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorCrudJEACH.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbaa992ef594ba147eab16eed2b7df83563eefbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorCrudJEACH.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorCrudJEACH.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
